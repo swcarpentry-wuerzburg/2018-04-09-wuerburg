@@ -10,7 +10,7 @@ humandate: "April 9th/10th, 2018"    # human-readable dates for the workshop (e.
 humantime: "09:00 - 17:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-04-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-04-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Markus Ankenbrand", "Konrad Förstner"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Markus Ankenbrand", "Florian Goth", "Konrad Förstner"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Rich Bharti", "Thorsten Bischler", "Silvia di Gorgio", "Akinyemi Mandela Fasemore, Till Sauerwein"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["konrad.foerstner@uni-wuerzburg.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: "https://hackmd.io/18UtTuXFRkKalLfhDoltZg"            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
