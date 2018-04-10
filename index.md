@@ -151,7 +151,7 @@ and our administrator may contact you if we need any extra information.</h4>
   <li>Accessible restrooms are available.</li>
 </ul>
 <p>
-<b>Materials</b> ([also found here](https://github.com/swcarpentry-wuerzburg/2018-04-09-wuerzburg)) 
+<b>Materials</b> (<a hrfe="https://github.com/swcarpentry-wuerzburg/2018-04-09-wuerzburg">also found here</a>) 
 will be provided in advance of the workshop and
 large-print handouts are available if needed by notifying the
 organizers in advance.  If we can help making learning easier for
